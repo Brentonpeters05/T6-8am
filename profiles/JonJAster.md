@@ -1,2 +1,2 @@
-GitHub Username: JonJAster
-Name: Jon Aster
+GitHub Username: Brentonpeters05    
+Name: Brenton Peters
